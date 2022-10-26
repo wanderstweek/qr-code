@@ -1,6 +1,4 @@
-body{
-  font-size: 15px;
-}
+
 
 @media only screen and (max-width: 600px) {
   #blue-container {
@@ -9,7 +7,8 @@ body{
   }
 }
 
-#blue-container{
+#blue-container
+{
   background-color: hsl(212, 45%, 89%);
   color: hsl(220, 15%, 55%);
   width: 1440px;
@@ -22,9 +21,10 @@ body{
   align-items: center;
 }
 
-#qr-container{
+#qr-container
+{
   background: hsl(0, 0%, 100%);
-  width: 285px;
+  width: 290px;
   height: 455px;
   padding: 15px;
   border-radius: 15px;
@@ -32,22 +32,25 @@ body{
   margin-right: auto;
 
 }
-#qr-container img{
+#qr-container img
+{
   width: 100%;
   height: auto;
   border-radius: 15px;
 }
-#qr-container h3{
+#qr-container h3
+{
   color: hsl(218, 44%, 22%);
-  font-family: 'Outfit', sans-serif;
   font-size: 1.3rem;
+  font-family: 'Outfit', sans-serif;
   font-weight: 700;
   text-align: center;
-  margin: 20px;
+  margin: 15px;
 }
-#qr-container p{
+#qr-container p
+{
+  font-size: 15px;
   font-family: 'Outfit', sans-serif;
-  font-weight: 400;
   text-align: center;
   margin: 20px;
 }
