@@ -15,7 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -59,4 +58,4 @@ My plan is to continue with the challenges from FrontendMentor. This is only the
 
 ## Acknowledgments
 
-Thanks, brain..! Love you!
+Thanks, brain..! I love you!
