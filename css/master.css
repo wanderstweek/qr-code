@@ -1,13 +1,15 @@
 
 
-@media only screen and (max-width: 600px) {
-  #blue-container {
+@media only screen and (max-width: 600px)
+{
+  #blue-container
+  {
     width: 375px;
     height: 40vh;
   }
 }
 
-#blue-container
+main
 {
   background-color: hsl(212, 45%, 89%);
   color: hsl(220, 15%, 55%);
@@ -30,7 +32,6 @@
   border-radius: 15px;
   margin-left: auto;
   margin-right: auto;
-
 }
 #qr-container img
 {

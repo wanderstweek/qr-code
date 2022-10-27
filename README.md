@@ -37,7 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Since I have some very basic expirience with HTML & CSS, this project was relativly easy for me to build. With this project I mostly learned how to push project to GitHub repository and how to publish project on GitHub Pages.
+Since I have some (very) basic expirience with HTML & CSS, this project was relativly easy for me to build. With this project I mostly learned how to push project to GitHub repository and how to publish project on GitHub Pages.
 
 
 ### Continued development
@@ -47,7 +47,7 @@ My plan is to continue with the challenges from FrontendMentor. This is only the
 
 ### Useful resources
 
-- [w3schools](https://www.w3schools.com) - I use this site as a starting point for learning the basics. Not only HTML and CSS but for SQL, Python and JavaScript.  
+- [w3schools](https://www.w3schools.com) - I use this site as a starting point for learning the basics. Not only HTML and CSS but also for SQL, PHP and JavaScript.  
 
 
 ## Author
